@@ -1,0 +1,15 @@
+body
+{
+    background-color: rgb(98, 138, 150);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1
+{
+    text-align:center ;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td
+{
+  padding: 10px;
+}
